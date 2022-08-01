@@ -59,7 +59,7 @@
   - FPT University Scholarship 50%
   - Spring & Summer 2021 FPT good student
   - Fall & Spring 2022 FPT excellent student
-# Blogs :
+# Projects :
 |Title|Links|
 |:---:|:---:|
 |Realtime facial expression recognition using VGGnet |<a href="https://github.com/DamNT055/Facial-expression-recognition-Vgg">Github</a>|
@@ -71,24 +71,24 @@
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/avinash-218)
+![Profile views](https://gpvc.arturio.dev/DamNT055)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamNT055&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=avinash-218&theme=chartreuse-dark&no-frame=true" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=DamNT055&theme=chartreuse-dark&no-frame=true" /></p>
 </details>
 
   
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=avinash-218&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=DamNT055&column=7&theme=gruvbox&no-frame=true"/>
 </details>
   
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avinash-218&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DamNT055&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=chartreuse-dark" />
 </p>  
 
