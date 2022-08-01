@@ -25,6 +25,7 @@
 - Data Science 📊
 - Data Structures And Algorithms 💻
 - Database 
+- Computer Vision & NLP
 
 <h3 align="left">Languages:</h3>
 
