@@ -54,16 +54,11 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
   
-## **Badges🥇**<br>
-<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
-  
-# Achievements :
-  - 58th Rank in Hexaware Data Science Engineer Challenge - TechGig
-  - Eligible for Seed-Funding from Mepco Schlenk Engineering College
-  - Got selected to meet-up with Angel Investors.
 
+# Achievements :
+  - FPT University Scholarship 50%
+  - Spring & Summer 2021 FPT good student
+  - Fall & Spring 2022 FPT excellent student
 # Blogs :
 |Title|Links|
 |:---:|:---:|
