@@ -103,11 +103,9 @@
 <br><br>
 [<img align="top" alt="Facebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" />](https://www.facebook.com/nguyen1872oz/)
 <br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)
+[<img align="top" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail: damntse150556@fpt.edu.vn&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />](https://www.instagram.com/_ravinash/)
 <br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@avinash-218)
-<br><br>
-  
+
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
