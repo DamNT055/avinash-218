@@ -65,8 +65,8 @@
 |:---:|:---:|
 |Realtime facial expression recognition using VGGnet |<a href="https://github.com/DamNT055/Facial-expression-recognition-Vgg">Github</a>|
 |Squat counter & angle estimation using OpenCv and Mediapipe|<a href="https://github.com/DamNT055/SquatCounter">Github</a>|
-|ANN Vs ANN + Feature Extractin Vs CNN on Image Dataset|<a href="https://hashnode.com/post/why-cnn-is-preferred-for-image-data-cl5wq6bvh0031zxnv02ayh7oh">Hashnode</a>|
-|Semi-Supervised Learning|<a href="https://hashnode.com/post/semi-supervised-learning-cl5xi1qzb02qvzxnv4jx9cld9">Hashnode</a>|
+|House Price predict using Linear Regression & Gradient Descent|<a href="https://github.com/DamNT055/House-predict-using-LR-GD">Github</a>|
+|MNIST Digits classification using PCA, SVM|<a href="https://github.com/DamNT055/MNIST-Digits-classification-PCA-SVM">Github</a>|
   
 ## &#x1f4c8; My GitHub Stats🎯
  
